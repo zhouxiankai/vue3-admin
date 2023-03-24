@@ -14,6 +14,7 @@
 <script setup>
 const person = ref({ name: 'zxk', age: 22 })
 console.lo(1)
+console.lo(2)
 </script>
 
 <style scoped></style>
