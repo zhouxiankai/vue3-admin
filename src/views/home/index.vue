@@ -2,7 +2,7 @@
  * @Author: zhouxk
  * @Date: 2023-02-24 14:18:34
  * @LastEditors: zhouxk
- * @LastEditTime: 2023-03-27 15:36:16
+ * @LastEditTime: 2023-03-27 15:41:02
  * @Description: file content
 -->
 <template>
@@ -15,6 +15,7 @@
 const person = ref({ name: 'zxk', age: 22 })
 console.log(1)
 console.log(2)
+console.log(3)
 </script>
 
 <style scoped></style>
